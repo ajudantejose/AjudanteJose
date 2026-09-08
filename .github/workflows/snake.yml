@@ -20,7 +20,8 @@ jobs:
           github_user_name: ajudantejose
 
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=#ffffff&color_dots=#0d1117,#161b22,#30363d,#8b949e,#f0f6fc
+            dist/github-snake.svg?color_snake=#000000&color_dots=#ebedf0,#9e9e9e,#707070,#404040,#000000
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#30363d,#6e7681,#b1bac4,#f0f6fc
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
