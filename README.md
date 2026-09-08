@@ -67,37 +67,23 @@ Busco minha **primeira oportunidade de estágio em tecnologia** para adquirir ex
 
 <!-- ===================== TECNOLOGIAS ===================== -->
 
+
 <h2 align="center">Tecnologias que estou estudando</h2>
 
 <br>
 
 <p align="center">
-  <img width="68" height="68" src="https://cdn.simpleicons.org/python/000000/FFFFFF" alt="Python" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="68" height="68" src="https://cdn.simpleicons.org/html5/000000/FFFFFF" alt="HTML5" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="68" height="68" src="https://cdn.simpleicons.org/css/000000/FFFFFF" alt="CSS" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="68" height="68" src="https://cdn.simpleicons.org/git/000000/FFFFFF" alt="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="68" height="68" src="https://cdn.simpleicons.org/github/000000/FFFFFF" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="68" height="68" src="https://cdn.simpleicons.org/visualstudiocode/000000/FFFFFF" alt="VS Code" />
-</p>
-
-<p align="center">
-  Python &nbsp;&nbsp;&nbsp;&nbsp;
-  HTML &nbsp;&nbsp;&nbsp;&nbsp;
-  CSS &nbsp;&nbsp;&nbsp;&nbsp;
-  Git &nbsp;&nbsp;&nbsp;&nbsp;
-  GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-  VS Code
+  <img width="135" height="38" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img width="135" height="38" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img width="135" height="38" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img width="135" height="38" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img width="135" height="38" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img width="135" height="38" src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logoColor=white" alt="VS Code">
 </p>
 
 <br>
 
 ---
-
 <!-- ===================== ESTATÍSTICAS ===================== -->
 
 <h2 align="center">Estatísticas</h2>
